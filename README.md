@@ -9,4 +9,5 @@ Click on the photo to display it.
 Users can select a new rating on the scale of 1-5 and the rating will automatically update. 
 
 An image of the GUI: 
-sample.png![image](https://user-images.githubusercontent.com/59905019/113930027-c33bf900-97be-11eb-987d-95bc247e685c.png)
+
+![image](https://user-images.githubusercontent.com/59905019/113930027-c33bf900-97be-11eb-987d-95bc247e685c.png)
